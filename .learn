@@ -6,6 +6,7 @@ languages:
   puts "Welcome to Tic Tac Toe!"
   learn submit
   lib/welcome.ruby
+  puts "Welcome to Tic Tac Toe!"
   
   
   
